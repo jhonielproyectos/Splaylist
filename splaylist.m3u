@@ -3,8 +3,8 @@
 https://raw.githubusercontent.com/jhonielproyectos/Sseries/refs/heads/main/Sseries.m3u
 #EXTINF:-1, Películas
 https://raw.githubusercontent.com/jhonielproyectos/Ppeliculas/refs/heads/main/Ppeliculas.m3u
-#EXTINF:-1, Anime
-https://raw.githubusercontent.com/jhonielproyectos/Sanime/refs/heads/main/Sanime.m3u
+#EXTINF:-1, Panime
+https://raw.githubusercontent.com/jhonielproyectos/Panime/refs/heads/main/panime.m3u
 #EXTINF:-1, Terror
 https://raw.githubusercontent.com/jhonielproyectos/Ppeliculas/refs/heads/main/pterror.m3u
 #EXTINF:-1, Comedia
