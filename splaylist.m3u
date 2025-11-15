@@ -21,3 +21,6 @@ https://raw.githubusercontent.com/jhonielproyectos/Sanime/main/Sanime.m3u
 https://raw.githubusercontent.com/jhonielproyectos/Pdrama/refs/heads/main/pdrama.m3u
 #EXTINF:-1, Pdorama
 https://raw.githubusercontent.com/jhonielproyectos/Pdoramas/refs/heads/main/pdoramas.m3u
+
+#EXTINF:-1, scraping
+https://raw.githubusercontent.com/jhonielproyectos/estesi/refs/heads/main/estesi.m3u
